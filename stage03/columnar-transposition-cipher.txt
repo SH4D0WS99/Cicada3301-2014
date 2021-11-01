@@ -1,0 +1,16 @@
+0 1 2 3 4 5 6 7 8 9 10 11 12 13
+I D G T K U M L O O A  R  W  O
+E R T H I S U T E T L  H  U  T
+I A T S L L O U I M N  I  T  E
+L N J 7 T F Y V O I U  A  U  S
+N O C O 5 J I 4 M E O  D  Z  Z
+
+2 	8 	9 	1 	12 	13 	11 	4 	5 	7 	3 	0 	6 	10
+G 	O 	O 	D 	W 	O 	R 	K 	U 	L 	T 	I 	M 	A
+T 	E 	T 	R 	U 	T 	H 	I 	S 	T 	H 	E 	U 	L
+T 	I 	M 	A 	T 	E 	I 	L 	L 	U 	S 	I 	O 	N
+J 	O 	I 	N 	U 	S 	A 	T 	F 	V 	7 	L 	Y 	U
+C 	M 	E 	O 	Z 	Z 	D 	5 	J 	4 	O 	N 	I 	O
+
+The cipher reads:
+Good work ultimate truth is the ultimate illusion, join us at fv7lyucmeozzd5j4.onion
