@@ -4,6 +4,9 @@ Author: @SH4D0WS99
 ## 1. What is this?
 This is a complete walkthrough and guide for the Cicada 3301 2014 puzzle.
 
+## 2. Where is the walkthrough located?
+The walkthrough is located in the file called [2014writeup.md](2014writeup.md).
+
 ## 2. Is it complete?
 No. The Liber Primus still remains unsolved. But I've added every single file I know to the repo.
 
