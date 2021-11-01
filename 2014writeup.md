@@ -24,7 +24,7 @@ Date: 11-10-2021 | Author: @SH4D0WS99
 ## 5. 2nd Onion deep web link
 1. The webpage revealed a growing string.
 2. The string dissappeared and was replaced with huge chunk of data.
-3. Download the huge chunk of data.
+3. Download the huge chunk of data and saving as ```onion1.hex```.
 4. Obtain hidden files in huge chunk of data with the help of [CyberChef](https://gchq.github.io/CyberChef).
 5. CyberChef recipe:
 - From Hex.
@@ -50,7 +50,7 @@ Date: 11-10-2021 | Author: @SH4D0WS99
 6. Remove each new line (Find and Replace: Regular expression: "\n").
 7. Download the multixor script from GitHub: [multixor](https://github.com/ingeist/multixor)
 8. Command the following in your terminal: ```python3 multixor/multixor.py -t image01-hex.txt -t image02-hex.txt -t image03-hex.txt -o message.txt.asc```.
-9. Open the ```message.txt.asc``` PGP message file.
+9. Open the ```message.txt.asc``` PGP signed message file.
 10. The text has been reordered with a column transposition cipher.
 11. By reordering the columns a text can be seen: ```GOOD WORK ULTIMATE TRUTH IS THE ULTIMATE ILLUSION JOIN US AT FV7LYUCMEOZZD5J4ONIO```.
 12. The following onion URL can be seen: ```fv7lyucmeozzd5j4.onion```.
