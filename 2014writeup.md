@@ -164,7 +164,8 @@ Date: 11-10-2021 | Author: @SH4D0WS99
 35. Running the commandline tool file revealed it is a MPEG 3 audio file.
 36. Rename the file ```onion5hex3.bin``` to ```onion5hex3.mp3```.
 37. Running the commandline tool id3v2 revealed nothing.
-38. Combining the 3 hints revealed the book ```Gödel, Escher, Bach: An Eternal Golden Braid``` by ```Douglas Hofstadter```.
+38. The MPEG 3 audio file is a segment of Bach's Trio Sonata in G Major (BWV 1039).
+39. Combining the 3 hints revealed the book ```Gödel, Escher, Bach: An Eternal Golden Braid``` by ```Douglas Hofstadter```.
 40. The book cipher revealed a new onion URL.
 41. The following onion URL can be seen: ```ut3qtzbrvs7dtvzp.onion```.
 
