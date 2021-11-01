@@ -14,7 +14,7 @@ Date: 11-10-2021 | Author: @SH4D0WS99
 ## 3. 1st Onion deep web link
 1. Website revealed ```1033.jpg```.
 2. Ran Outguess revealed the file ```1033.out```.
-3. The file 1033.txt contains a RSA message.
+3. The file ```1033.out``` contains a RSA message.
 
 ## 4. RSA cipher
 1. Found out the p and q needed: ```p = 97513779050322159297664671238670850085661086043266591739338007321, q = 77506098606928780021829964781695212837195959082370473820509360759```.
