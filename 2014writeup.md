@@ -48,7 +48,7 @@ Date: 11-10-2021 | Author: @SH4D0WS99
 4. Each .out file contains a hexadecimal string.
 5. Copy hexadecimal string and paste it in a new file.
 6. Remove each new line (Find and Replace: Regular expression: "\n").
-7. Download the multixor script from GitHub: (multixor)[https://github.com/ingeist/multixor]
+7. Download the multixor script from GitHub: [multixor](https://github.com/ingeist/multixor)
 8. Command the following in your terminal: ```python3 ../multixor/multixor.py -t image01-hex.txt -t image02-hex.txt -t image03-hex.txt -o message.txt.asc```.
 9. Open the ```message.txt.asc``` PGP message file.
 10. The text has been reordered with a column transposition cipher.
@@ -59,7 +59,7 @@ Date: 11-10-2021 | Author: @SH4D0WS99
 1. Another growing string page was found. Also the server-status webpage was accidentaly available.
 2. A huge chunk of hex data was posted to the server-status webpage.
 3. Download the huge chunk of data. I saved it as ```server-status.hex```.
-4. There are 2 ways to obtain files hidden in the huge chunk of data. With the help of (CyberChef)[https://gchq.github.io/CyberChef/] or commandline tool xxd. I prefer CyberChef but it is your own choice.
+4. There are 2 ways to obtain files hidden in the huge chunk of data. With the help of [CyberChef](https://gchq.github.io/CyberChef) or commandline tool xxd. I prefer CyberChef but it is your own choice.
 5. CyberChef recipe:
 - From Hex
 - Extract Files: only enable Images.
@@ -184,7 +184,7 @@ Date: 11-10-2021 | Author: @SH4D0WS99
 11. Ran Outguess revealed the file ```page13.out```.
 12. Ran Outguess revealed the file ```page14.out```.
 13. Set up a CGI script which accepts uploads and set up a Tor hidden service.
-14. Open the file ```interconnectedness.mp3``` in (OpenPuff)[https://embeddedsw.net/OpenPuff_Steganography_Home.html].
+14. Open the file ```interconnectedness.mp3``` in [OpenPuff](https://embeddedsw.net/OpenPuff_Steganography_Home.html).
 15. Extract the .txt file and name it ```magicsquares.txt```.
 16. Submit the 3 magic squares and your Tor hidden service onion link and download the 3 images.
 17. The 3 images with runes are encrypted with a Vigenère cipher.
