@@ -89,9 +89,9 @@ Date: 11-10-2021 | Author: @SH4D0WS99
 21. Translating the runes with the Gematria Primus obtains rubbish text.
 22. The runes are encrypted with a [Vigenère cipher](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher).
 23. Applying the key: ```DIUINITY``` revealed a welcome text.
-24. Ran Outguess revealed the file ```page5.out```.
+24. Ran Outguess revealed the file ```image5.out```.
 25. Running the commandline tool file revealed it is a JPEG image.
-26. Rename the file ```page5.out``` to ```page5.jpg```.
+26. Rename the file ```image5.out``` to ```image5out.jpg```.
 27. The file ```page5.jpg``` was encoded with a Vigenère cipher.
 28. Applying the key: ```welcome pilgrim to the``` revealed a new onion URL.
 29. The following onion URL can be seen: ```avowyfgl5lkzfj3n.onion```.
@@ -113,7 +113,7 @@ Date: 11-10-2021 | Author: @SH4D0WS99
 11. The images contain pages with runes.
 12. Translating this runes obtains rubbish text.
 13. Applying the Atbash cipher (simply flipping the runic alphabet from the Gematria Primus) translates to a koan.
-14. Ran Outguess revealed the file ```page9.out```.
+14. Ran Outguess revealed the file ```image9.out```.
 15. The text has been reordered with a column transposition cipher.
 16. By reordering the columns a text can be seen: ```TO BELIEVE TRUTH IS TO DESTROY POSSIBILITY Q4UTGDI2N4M4UIM59133```.
 17. The following onion URL can be seen: ```q4utgdi2n4m4uim5.onion```.
@@ -180,10 +180,10 @@ Date: 11-10-2021 | Author: @SH4D0WS99
 6. Applying the Gematria Primus revealed a text about the loss of divinity.
 7. Or command the following in your terminal: ```xxd -p -r onion6.hex onion6.bin```.
 8. Use commandline tool binwalk to extract files from binary (.bin) file with the following command: ```binwalk -e onion6.bin```.
-9. Ran Outguess revealed the file ```page11.out```.
-10. Ran Outguess revealed the file ```page12.out```.
-11. Ran Outguess revealed the file ```page13.out```.
-12. Ran Outguess revealed the file ```page14.out```.
+9. Ran Outguess revealed the file ```image11.out```.
+10. Ran Outguess revealed the file ```image12.out```.
+11. Ran Outguess revealed the file ```image13.out```.
+12. Ran Outguess revealed the file ```image14.out```.
 13. Set up a CGI script which accepts uploads and set up a Tor hidden service.
 14. Open the file ```interconnectedness.mp3``` in [OpenPuff](https://embeddedsw.net/OpenPuff_Steganography_Home.html).
 15. Extract the .txt file and name it ```magicsquares.txt```.
