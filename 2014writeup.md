@@ -45,11 +45,11 @@ Date: 11-10-2021 | Author: @SH4D0WS99
 1. Ran Outguess revealed the file ```image01.out```.
 2. Ran Outguess revealed the file ```image02.out```.
 3. Ran Outguess revealed the file ```image03.out```.
-4. Each .out file contains a hexadecimal string.
+4. Each ```.out``` file contains a hexadecimal string.
 5. Copy hexadecimal string and paste it in a new file.
 6. Remove each new line (Find and Replace: Regular expression: "\n").
 7. Download the multixor script from GitHub: [multixor](https://github.com/ingeist/multixor)
-8. Command the following in your terminal: ```python3 ../multixor/multixor.py -t image01-hex.txt -t image02-hex.txt -t image03-hex.txt -o message.txt.asc```.
+8. Command the following in your terminal: ```python3 multixor/multixor.py -t image01-hex.txt -t image02-hex.txt -t image03-hex.txt -o message.txt.asc```.
 9. Open the ```message.txt.asc``` PGP message file.
 10. The text has been reordered with a column transposition cipher.
 11. By reordering the columns a text can be seen: ```GOOD WORK ULTIMATE TRUTH IS THE ULTIMATE ILLUSION JOIN US AT FV7LYUCMEOZZD5J4ONIO```.
@@ -196,6 +196,6 @@ Date: 11-10-2021 | Author: @SH4D0WS99
 ## 11. 7th Onion deep web link
 1. The webpage contained 57 images numbered 0.jpg to 57.jpg.
 2. Download all the 57 images.
-3. The image 57.jpg can be translated directly with the Gematria Primus.
-4. The image 56.jpg is encrypted with the Euler totient function.
+3. The image ```57.jpg``` can be translated directly with the Gematria Primus.
+4. The image ```56.jpg``` is encrypted with the [Euler totient function](https://en.wikipedia.org/wiki/Euler%27s_totient_function).
 5. Decrypting this page revealed that there is a deep web link that hashes to: ```36367763ab73783c7af284446c59466b4cd653239a311cb7116d4618dee09a8425893dc7500b464fdaf1672d7bef5e891c6e2274568926a49fb4f45132c2a8b4```.
