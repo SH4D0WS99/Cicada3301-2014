@@ -25,7 +25,7 @@ Date: 11-10-2021 | Author: @SH4D0WS99
 1. The webpage revealed a growing string.
 2. The string dissappeared and was replaced with huge chunk of data.
 3. Download the huge chunk of data.
-4. Obtain hidden files in huge chunk of data with the help of (CyberChef)[https://gchq.github.io/CyberChef/].
+4. Obtain hidden files in huge chunk of data with the help of [CyberChef](https://gchq.github.io/CyberChef).
 5. CyberChef recipe:
 - From Hex.
 - XOR with Key: 0xFF.
