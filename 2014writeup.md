@@ -1,6 +1,6 @@
 # Cicada 2014 puzzle
 
-Date: 11-10-2021 | Author: SH4D0WS_
+Date: 11-10-2021 | Author: @SH4D0WS99
 
 ## 1. 2014.jpg
 1. Downloaded the image from imgur.
