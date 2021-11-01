@@ -85,9 +85,9 @@ Date: 11-10-2021 | Author: @SH4D0WS99
 - Reverse.
 - Extract Files: only enable Images.
 19. Download 1 image.
-20. The images are contain 2 pages with runes.
+20. The images contain 2 pages with runes.
 21. Translating the runes with the Gematria Primus obtains rubbish text.
-22. The runes are encrypted with a Vigenère cipher.
+22. The runes are encrypted with a [Vigenère cipher](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher).
 23. Applying the key: ```DIUINITY``` revealed a welcome text.
 24. Ran Outguess revealed the file ```page5.out```.
 25. Running the commandline tool file revealed it is a JPEG image.
