@@ -92,7 +92,7 @@ Date: 11-10-2021 | Author: @SH4D0WS99
 24. Ran Outguess revealed the file ```image5.out```.
 25. Running the commandline tool file revealed it is a JPEG image.
 26. Rename the file ```image5.out``` to ```image5out.jpg```.
-27. The file ```page5.jpg``` was encoded with a Vigenère cipher.
+27. The file ```image5out.jpg``` was encoded with a Vigenère cipher.
 28. Applying the key: ```welcome pilgrim to the``` revealed a new onion URL.
 29. The following onion URL can be seen: ```avowyfgl5lkzfj3n.onion```.
 
